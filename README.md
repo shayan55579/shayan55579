@@ -160,11 +160,6 @@ me.say_hi()
 <!-- ═══════════════════════════════════════════════════════════
      TROPHIES
 ═══════════════════════════════════════════════════════════ -->
-## 🏆 Trophy Cabinet
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shayan55579&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════
      SNAKE ANIMATION
@@ -184,32 +179,7 @@ me.say_hi()
 <!-- ═══════════════════════════════════════════════════════════
      FEATURED PROJECTS
 ═══════════════════════════════════════════════════════════ -->
-## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/shayan55579/REPO_NAME_1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shayan55579&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D" />
-</a>
-<a href="https://github.com/shayan55579/REPO_NAME_2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shayan55579&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D" />
-</a>
-
-<a href="https://github.com/shayan55579/REPO_NAME_3">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shayan55579&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D" />
-</a>
-<a href="https://github.com/shayan55579/REPO_NAME_4">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shayan55579&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D" />
-</a>
-
-</div>
-
-<div align="center">
-  <br>
-  <a href="https://github.com/shayan55579?tab=repositories">
-    <img src="https://img.shields.io/badge/🔎%20Browse%20All%20Repositories-00C9FF?style=for-the-badge&labelColor=0d1117" />
-  </a>
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════
      DEV QUOTE
