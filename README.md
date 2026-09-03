@@ -146,16 +146,7 @@ me.say_hi()
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shayan55579&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=c9d1d9" alt="stats" />
-  <img width="41%" src="https://streak-stats.demolab.com?user=shayan55579&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF" alt="streak" />
-</div>
 
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan55579&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9" alt="top languages" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shayan55579&theme=tokyo-night&bg_color=0D1117&color=00C9FF&line=92FE9D&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════
      TROPHIES
