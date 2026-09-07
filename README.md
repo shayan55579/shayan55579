@@ -193,7 +193,7 @@ me.say_hi()
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shayan-ebrahimi-005475240" target="_blank">
+  <a href="https://www.linkedin.com/in/amirreza-ebrahimi-005475240/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shayanebrahimi555@yahoo.com">
@@ -202,7 +202,7 @@ me.say_hi()
   <a href="https://www.github.com/shayan55579" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/@shayan" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
